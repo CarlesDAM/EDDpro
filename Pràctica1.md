@@ -145,3 +145,65 @@ Açí es mostren els diferents llenguatges
 | Com aborda la tasca d'executar | Imperativo y estructurado |
 | Paradigma de programació | Multiparadigma |
 | On sol utilitzarse | Cliente/Servidor |
+
+
+# Pràctica d'avaluació unitat 1
+## Exercici 2
+Aplicacions multiplataforma
+
+## LibreOffice 
+
+**Descripció**: LibreOffice és un paquet de programari d'oficina lliure i de codi obert desenvolupat per The Document Foundation. Es va crear el 2010 com bifurcació d'Apache OpenOffice, un altre antic projecte de codi obert, que al seu torn tenia com a base inicial a la suite ofimàtica StarOffice, desenvolupada per StarDivision, adquirida per Sun Microsystems a l'agost de 1999.
+
+ **LLenguatge de programació:**  C++, Java i Python
+ 
+ ## Mozilla Firefox 
+
+**Descripció**: Mozilla Firefox (anomenat simplement Firefox) és un navegador web lliure i de codi obert desenvolupat per Linux, Android, iOS, macOS i Microsoft Windows coordinat per la Corporació Mozilla i la Fundació Mozilla. Utilitza el motor Gecko per renderitzar pàgines web, el qual implementa actuals i futurs estàndards web.
+
+ **LLenguatge de programació:** C++, XUL, XBL, JavaScript, CSS, C y Rust 
+ 
+ ## GIMP
+
+**Descripció**: GIMP (sigles en anglès de GNU Image Manipulation Program) és un programa d'edició d'imatges digitals en forma de mapa de bits, tant dibuixos com fotografies. És un programa lliure i gratuït. Forma part del projecte GNU i està disponible sota la Llicència Pública General de GNU i GNU Lesser General Public License.
+
+ **LLenguatge de programació:** C i GTK
+ 
+ ## Plucker 
+
+**Descripció**: Plucker és un lector de documents, publicat a com programari lliure, per a dispositius de mà i PDAs basats en Palm OS. Té el seu propi format d'arxius Plucker.
+
+ **LLenguatge de programació:** Perl i Python
+ 
+ ## Skype 
+
+**Descripció**: Skype és un programari propietari distribuït per Microsoft després d'haver comprat la companyia homònima i que permet comunicacions de text, veu i vídeo sobre Internet (VoIP). Va ser dissenyat en 2003 pel danès Janus Friis i el suec Niklas Zennström (també creadors de Kazaa) i desenvolupada en la seva solució tècnica pels estonians Priit Kasesalu, Ahti Heinla i Jaan Tallinn, ja que de fet Skype va néixer a Tallin, Estonia. El codi i protocol d'Skype romanen tancats i són privatius de l'aplicació, però els usuaris interessats poden descarregar gratuïtament l'aplicació executable del lloc web oficial. Els usuaris de Skype poden parlar entre si gratuïtament.
+
+ **LLenguatge de programació:**  Embarcadero Delphi, Objective-C, C++, Object Pascal y JavaScript 
+ 
+ ## Opera 
+
+**Descripció**: Opera és un navegador web creat per l'empresa noruega Opera Software. Utilitza el motor de renderitzat Blink. Té versions per a ordinadors d'escriptori, telèfons mòbils i tauletes.
+Els sistemes operatius compatibles amb Opera d'escriptori són Microsoft Windows, Mac OS X i GNU / Linux (Ubuntu, Fedora 64 bits) entre d'altres. Els sistemes operatius mòbils suportats són Maemo, BlackBerry, Symbian, Windows Mobile, Windows Phone, Android i iOS; així com la plataforma Java ME.
+
+ **LLenguatge de programació:**  C++
+
+
+/*Hola mon en C*/
+
+#include <stdio.h>
+
+int main (void)
+{
+	printf("Hello World! des de C!")
+}
+
+
+// Hola mon en nodejs/javascript
+
+console.log("Hello World! des de JavaScript");
+
+
+#Hola a tots en python
+
+print "Hola a tots! Em diuen Carles i estudie 1r DAM"
